@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            AI Model for Analog Circuit
+longtitle:        AI Model for Analog Circuit
+author:           WU YIHAN
+email:           vegta1227@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Description of Reinforcement model for optimizing circuit parameters.
 
 version:          1.0
 gitbook_version:  3.2.3
