@@ -14,7 +14,7 @@ baseurl:          '/autockt-doc'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: lwasoo/autockt-doc
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
