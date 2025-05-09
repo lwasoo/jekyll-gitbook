@@ -23,4 +23,4 @@ Leverage deep reinforcement learning to automatically optimize transistor sizing
 {: .block-tip }
 ---
 
-Let's begin with the [Project Overview](./Jekyll/2024-04-11-intro.html) →  
+Let's begin with the [Project Overview](./jekyll/2024-04-11-intro.html) →  
